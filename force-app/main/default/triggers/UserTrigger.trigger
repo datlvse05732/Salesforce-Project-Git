@@ -27,6 +27,7 @@ trigger UserTrigger on User (after insert) {
        //Post about joining of the new users in the chatter 
        //UserTriggerHandler.postToChatterGroup(Trigger.newMap.keySet());
        // datlv check git update
+       //compare code
 
     }
 }
